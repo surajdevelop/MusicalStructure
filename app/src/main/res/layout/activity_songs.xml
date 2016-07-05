@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".SongsActivity">
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="#4A148C"
+        android:text="Love Yourself"
+        />
+
+    <TextView
+
+        style="@style/CategoryStyle"
+        android:background="#6A1B9A"
+        android:text="One Dance" />
+
+    <TextView
+
+        style="@style/CategoryStyle"
+        android:background="#8E24AA"
+        android:text="Photograph" />
+
+    <TextView
+
+        style="@style/CategoryStyle"
+        android:background="#AB47BC"
+        android:text="Pop Style" />
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="#BA68C8"
+        android:text="Sorry"
+        />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="#CE93D8"
+        android:text="Thinking Out Loud" />
+
+</LinearLayout>
